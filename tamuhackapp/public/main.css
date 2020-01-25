@@ -1,0 +1,9 @@
+.note pre {
+    white-space: pre-wrap; 
+    word-wrap: break-word;
+    font-family: inherit;
+  }
+
+  .text-muted{
+    opacity: 0.5;
+}
