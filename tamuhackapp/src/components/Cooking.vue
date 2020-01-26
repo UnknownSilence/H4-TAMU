@@ -17,18 +17,18 @@
               style="width: 100px; height: 100px; max-width: 100px;"
               src="../assets/knife.png"
             ></v-img>
-            <v-title style="font-size: 2em">Topic 1</v-title>
-            <v-subtitle-1 style="color:#6c63ff">
+            <p style="font-size: 2em">Topic 1</p>
+            <p style="color:#6c63ff">
               <strong style="font-size: 2em;">Knife Skills</strong>
-            </v-subtitle-1>
+            </p>
           </v-expansion-panel-header>
           <v-expansion-panel-content>
             <v-row>
               <v-list>
                 <v-list-item>
-                  <v-title class="ma-2 pa-2">
+                  <p class="ma-2 pa-2">
                     <strong>Lesson 1</strong>
-                  </v-title>
+                  </p>
                   <v-divider class="mx-4" :inset="inset" vertical></v-divider>
                   <router-link tag="a" to="/cooking/lesson1">
                     <a style="color: #6c63ff" class="ma-4">Different knives.</a>
@@ -42,19 +42,31 @@
                     <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
                   </v-row>
                 </v-list-item>
+                <v-list-item>
+                  <p class="ma-2 pa-2">
+                    <strong>Lesson 2</strong>
+                  </p>
+                  <v-divider class="mx-4" :inset="inset" vertical></v-divider>
+                  <router-link tag="a" to="/cooking/lesson2">
+                    <a style="color: #6c63ff" class="ma-4">Holding the knife</a>
+                  </router-link>
+                  <v-row>
+                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                  </v-row>
+                </v-list-item>
+                <v-list-item>
+                  <p class="ma-2 pa-2">
+                    <strong>Lesson 3</strong>
+                  </p>
+                  <v-divider class="mx-4" :inset="inset" vertical></v-divider>
+                  <router-link tag="a" to="/cooking/lesson3">
+                    <a style="color: #6c63ff" class="ma-4">Different Knife Cuts</a>
+                  </router-link>
+                  <v-row>
+                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                  </v-row>
+                </v-list-item>
               </v-list>
-              <v-list-item>
-                <v-title class="ma-2 pa-2">
-                  <strong>Lesson 1</strong>
-                </v-title>
-                <v-divider class="mx-4" :inset="inset" vertical></v-divider>
-                <router-link tag="a" to="/cooking/lesson2">
-                  <a style="color: #6c63ff" class="ma-4">Holding the knife</a>
-                </router-link>
-                <v-row>
-                  <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
-                </v-row>
-              </v-list-item>
             </v-row>
           </v-expansion-panel-content>
         </v-expansion-panel>
@@ -65,21 +77,21 @@
               style="width: 100px; height: 100px; max-width: 100px;"
               src="../assets/fire.png"
             ></v-img>
-            <v-title style="font-size: 2em">Topic 2</v-title>
-            <v-subtitle-1 style="color:#6c63ff">
+            <p style="font-size: 2em">Topic 2</p>
+            <p style="color:#6c63ff">
               <strong style="font-size: 2em;">Spices, Heat, and Oil</strong>
-            </v-subtitle-1>
+            </p>
           </v-expansion-panel-header>
           <v-expansion-panel-content>
             <v-row>
               <v-list>
                 <v-list-item>
-                  <v-title class="ma-2 pa-2">
+                  <p class="ma-2 pa-2">
                     <strong>Lesson 1</strong>
-                  </v-title>
+                  </p>
                   <v-divider class="mx-4" :inset="inset" vertical></v-divider>
-                  <router-link tag="a" to="/cooking/lesson1">
-                    <a style="color: #6c63ff" class="ma-4">Different knives.</a>
+                  <router-link tag="a" to="/cooking/lesson4">
+                    <a style="color: #6c63ff" class="ma-4">The Basics</a>
                   </router-link>
                   <v-img
                     class="ma-2 pa-2"
@@ -90,19 +102,31 @@
                     <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
                   </v-row>
                 </v-list-item>
+                <v-list-item>
+                  <p class="ma-2 pa-2">
+                    <strong>Lesson 2</strong>
+                  </p>
+                  <v-divider class="mx-4" :inset="inset" vertical></v-divider>
+                  <router-link tag="a" to="/cooking/lesson5">
+                    <a style="color: #6c63ff" class="ma-4">Saute & Sear</a>
+                  </router-link>
+                  <v-row>
+                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                  </v-row>
+                </v-list-item>
+                <v-list-item>
+                  <p class="ma-2 pa-2">
+                    <strong>Lesson 3</strong>
+                  </p>
+                  <v-divider class="mx-4" :inset="inset" vertical></v-divider>
+                  <router-link tag="a" to="/cooking/lesson6">
+                    <a style="color: #6c63ff" class="ma-4">Oil and Pan Types</a>
+                  </router-link>
+                  <v-row>
+                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                  </v-row>
+                </v-list-item>
               </v-list>
-              <v-list-item>
-                <v-title class="ma-2 pa-2">
-                  <strong>Lesson 1</strong>
-                </v-title>
-                <v-divider class="mx-4" :inset="inset" vertical></v-divider>
-                <router-link tag="a" to="/cooking">
-                  <a style="color: #6c63ff" class="ma-4">Holding the knife</a>
-                </router-link>
-                <v-row>
-                  <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
-                </v-row>
-              </v-list-item>
             </v-row>
           </v-expansion-panel-content>
         </v-expansion-panel>
@@ -116,7 +140,9 @@
 export default {
   data: () => ({
     alignment: "center",
-    justify: "center"
+    justify: "center",
+    fireData: null,
+    firedata2: null
   })
 };
 </script>
