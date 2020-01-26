@@ -39,7 +39,7 @@
                     src="../assets/checkmark.svg"
                   ></v-img>
                   <v-row>
-                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                    <p class="subtitle-1 ma-12">Get to know your knives.</p>
                   </v-row>
                 </v-list-item>
                 <v-list-item>
@@ -51,7 +51,7 @@
                     <a style="color: #6c63ff" class="ma-4">Holding the knife</a>
                   </router-link>
                   <v-row>
-                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                    <p class="subtitle-1 ma-12">Proper technique is everything.</p>
                   </v-row>
                 </v-list-item>
                 <v-list-item>
@@ -63,7 +63,7 @@
                     <a style="color: #6c63ff" class="ma-4">Different Knife Cuts</a>
                   </router-link>
                   <v-row>
-                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                    <p class="subtitle-1 ma-12">Knowledge is the key to success in cutlery.</p>
                   </v-row>
                 </v-list-item>
               </v-list>
@@ -99,7 +99,7 @@
                     src="../assets/checkmark.svg"
                   ></v-img>
                   <v-row>
-                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                    <p class="subtitle-1 ma-12">Get used to the basics.</p>
                   </v-row>
                 </v-list-item>
                 <v-list-item>
@@ -111,7 +111,9 @@
                     <a style="color: #6c63ff" class="ma-4">Saute & Sear</a>
                   </router-link>
                   <v-row>
-                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                    <p
+                      class="subtitle-1 ma-12"
+                    >Learn the proper way to Saute & Sear common food items.</p>
                   </v-row>
                 </v-list-item>
                 <v-list-item>
@@ -123,7 +125,9 @@
                     <a style="color: #6c63ff" class="ma-4">Oil and Pan Types</a>
                   </router-link>
                   <v-row>
-                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                    <p
+                      class="subtitle-1 ma-12"
+                    >Wrap your head around the ins and outs of the oil and pan types and their uses.</p>
                   </v-row>
                 </v-list-item>
               </v-list>

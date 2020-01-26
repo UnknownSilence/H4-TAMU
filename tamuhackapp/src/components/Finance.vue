@@ -39,7 +39,7 @@
                     src="../assets/checkmark.svg"
                   ></v-img>
                   <v-row>
-                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                    <p class="subtitle-1 ma-12">Get acquantied with a 401(k)</p>
                   </v-row>
                 </v-list-item>
                 <v-list-item>
@@ -51,7 +51,7 @@
                     <a style="color: #6c63ff" class="ma-4">How do I apply for one?</a>
                   </router-link>
                   <v-row>
-                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                    <p class="subtitle-1 ma-12">Steps to take toward applying for one.</p>
                   </v-row>
                 </v-list-item>
               </v-list>
@@ -82,7 +82,7 @@
                     <a style="color: #6c63ff" class="ma-4">What is it?</a>
                   </router-link>
                   <v-row>
-                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                    <p class="subtitle-1 ma-12">Basics of an IRS 1040 and what it is.</p>
                   </v-row>
                 </v-list-item>
                 <v-list-item>
@@ -94,7 +94,7 @@
                     <a style="color: #6c63ff" class="ma-4">How do I fill the IRS 1040</a>
                   </router-link>
                   <v-row>
-                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                    <p class="subtitle-1 ma-12">General overview of how to utilize.</p>
                   </v-row>
                 </v-list-item>
               </v-list>

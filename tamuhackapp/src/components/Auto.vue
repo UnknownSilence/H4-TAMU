@@ -39,7 +39,7 @@
                     src="../assets/checkmark.svg"
                   ></v-img>
                   <v-row>
-                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                    <p class="subtitle-1 ma-12">How do I jack it? Where do I jack it?</p>
                   </v-row>
                 </v-list-item>
                 <v-list-item>
@@ -51,7 +51,7 @@
                     <a style="color: #6c63ff" class="ma-4">Changing the tire</a>
                   </router-link>
                   <v-row>
-                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                    <p class="subtitle-1 ma-12">Proper way to change a flat tire.</p>
                   </v-row>
                 </v-list-item>
               </v-list>
@@ -82,7 +82,7 @@
                     <a style="color: #6c63ff" class="ma-4">Checking your oil</a>
                   </router-link>
                   <v-row>
-                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                    <p class="subtitle-1 ma-12">What it is, how to do it, and why you need to.</p>
                   </v-row>
                 </v-list-item>
                 <v-list-item>
@@ -94,7 +94,7 @@
                     <a style="color: #6c63ff" class="ma-4">Adding Oil</a>
                   </router-link>
                   <v-row>
-                    <p class="subtitle-1 ma-12">This is a description of this lesson.</p>
+                    <p class="subtitle-1 ma-12">Proper way to add oil and what type to get.</p>
                   </v-row>
                 </v-list-item>
               </v-list>
